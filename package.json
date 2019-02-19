@@ -1,0 +1,21 @@
+{
+  "name": "simple-template",
+  "version": "0.0.1",
+  "description": "A simple project to test template strings as template system for javascript applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "simple",
+    "template",
+    "engine"
+  ],
+  "author": "Jorge Rivera <jorgeriv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
