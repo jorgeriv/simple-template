@@ -1,0 +1,9 @@
+.card {
+    border: 3px dashed lightgray;
+    padding: 4px;
+    margin: 6px;
+}
+.card:hover {
+    border: 3px solid lightgray;
+    background-color: lightgray;
+}
